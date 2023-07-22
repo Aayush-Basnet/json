@@ -1,0 +1,12 @@
+{
+    "name":"Aayush",
+    "score":20,
+    "isAdmin":true,
+    "license":null,
+    "shopItem":["food","clothes","Momo"],
+    "myobj":{
+        "name":"Ayush",
+        "score":25,
+        "shopItem2":["Food","clothes",{"a":"ayush","b":"basnet"}]
+    }
+}
