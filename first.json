@@ -1,0 +1,37 @@
+{
+    "name": "Aayush",
+    "score":85,
+    "isAdmin":true,
+    "License": false,
+    "Subject":["Statistic II","Numerical Method","Computer Architecture","Computer Graphic","DSA"],
+
+    "sub1":{
+        "name":"Aayush",
+        "score":20,
+        "subject":"Computer Graphic"
+    },
+    
+    "sub2":{
+        "name":"Aayush",
+        "score":15,
+        "subject":"Statistics II"
+    },
+    
+    "sub3":{
+        "name":"Aayush",
+        "score":18,
+        "subject":"Numerical Method"
+    },
+    
+    "sub4":{
+        "name":"Aayush",
+        "score":16,
+        "subject":"Computer Architecture"
+    },
+    
+    "sub5":{
+        "name":"Aayush",
+        "score":15,
+        "subject":"DSA"
+    }
+}
